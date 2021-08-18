@@ -15,17 +15,21 @@ body{
     height: 100vh;
 }
 
+
+/*Heading*/
 h1{
     margin-bottom: 20px;
     font-size: 5rem;
 
 }
 
+/*Block*/
 #info{
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
 
+/*Block value*/
 #info div{
     padding: 3rem;
     background-color: blue;
